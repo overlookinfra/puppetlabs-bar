@@ -1,5 +1,9 @@
 # bar
 
+> This module is not supported or maintained by Puppet and does not qualify for Puppet Support plans. It's provided without guarantee or warranty and is not intended for public use. It is only used by internal testing pipelines.
+>
+>[tier:internal]
+
 #### Table of Contents
 
 1. [Description](#description)
